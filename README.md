@@ -5,4 +5,4 @@
 
 ## Summary 
 This repository contains all of the notes taken by [Peter](https://github.com/Ediyu) for the Lighthouse Labs Web Development Bootcamp.
-Also you can reference to [Lighthouse Labs}(https://www.lighthouselabs.ca)].
+Also you can reference to [Lighthouse Labs](https://www.lighthouselabs.ca)].
